@@ -1,4 +1,4 @@
-# Payroll-For-Business-JAVA-JDBC-Project
+# Payroll-For-Business-JAVA-OOPS-JDBC-Project
 
 This java project focusses on generating payroll for bussinees.
 There are mainly 3 types of employees in this organisation- 
