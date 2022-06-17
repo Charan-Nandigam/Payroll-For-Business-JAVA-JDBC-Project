@@ -16,7 +16,7 @@ Employees in sales are compensated by a base salary plus 1% of the sales amount 
 Employees in general have the facility to opt for transport and food for which the charges will be deducted from their salary.
 Based on all this the total pay that they recieve will be calculated. All these details will be getting updated in SQL database.
 
-Concepts used :
+# Concepts used :
 1)OOPS in java
 2)JDBC
 3)Exception handling
