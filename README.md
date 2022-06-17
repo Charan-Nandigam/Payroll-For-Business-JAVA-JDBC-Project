@@ -1,1 +1,1 @@
-# project-1
+# JAVA-JDBC-Project
